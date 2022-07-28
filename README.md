@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sknirbhay10
-- 👀 I’m interested in Development
+- 👀 I’m interested in Web Development and app development
 - 🌱 I’m currently learning flutter
 
 <!---
